@@ -1,0 +1,9 @@
+{
+  "label": "Guía de inicio rápido",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Este tutorial está diseñado para ayudarle a comenzar a desarrollar rápidamente un miniprograma."
+  }
+}
+
