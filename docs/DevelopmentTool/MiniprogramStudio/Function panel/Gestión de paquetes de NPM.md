@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# NPM Package Management
+# Gestión de paquetes de NPM
 
-The developer can manage easily all NPM dependencies in the current project within the Mini Program Studio. The entry is shown in the figure below.
+El desarrollador puede administrar fácilmente todas las dependencias de NPM en el proyecto actual dentro del Mini Program Studio.La entrada se muestra en la figura a continuación.
 
 ![npm 1](./img/npm1.jpg)
 
@@ -34,7 +34,7 @@ En la interfaz de administración de paquetes NPM, puede administrar las depende
     </li>
     <li>
         Eliminar dependencia: haga clic en el botón Eliminar para eliminar la dependencia específica. 
-        
+
         ![npm 1](./img/npm4.jpg)
     </li>
 </ul>
