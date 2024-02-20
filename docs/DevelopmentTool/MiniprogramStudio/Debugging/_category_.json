@@ -1,0 +1,9 @@
+{
+  "label": "Depuración",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Este tema proporciona una referencia completa de la manera de hacer debugging  en mini program."
+  }
+}
+
