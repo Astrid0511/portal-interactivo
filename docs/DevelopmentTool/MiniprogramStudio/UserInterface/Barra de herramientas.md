@@ -51,11 +51,13 @@ Use la aplicación para escanear el código QR y obtener una vista previa del Mi
 ## Subir
 Sobre el programa mini asociado, los códigos de mini del programa se cargan al portal de desarrolladores de mini del programa para crear un programa ejecutable en la aplicación.La versión cargada se puede especificar, si no se especifica, la versión actual se incrementa en 1 (la versión actual debe ser mayor que la versión anterior).Una vez completada la carga, se genera una versión de desarrollo única en el portal de desarrolladores de mini del programa.
 Para el estándar y las especificaciones de gestión de versiones, ver [Semver](/).
+
 ![Barra de herramientas7](./img/tool7.png)
 <br />
 
 ## Detalles
 Haga clic en el botón [Details](/) en la barra de herramientas, la ventana Detalles se mostrará en el área del editor.
+
 ![Barra de herramientas8](./img/tool8.jpg)
 
 Los detalles contienen principalmente información:
@@ -97,6 +99,7 @@ La interfaz principal de Mini Program Studio contiene principalmente componentes
 
 
 ## Acceso (Login)
+
 Si no ha iniciado sesión en el Mini Program Studio, haga clic en el botón de inicio de sesión ```Login``` para iniciar sesión.
 
 Después de iniciar sesión, haga clic en el avatar, puede optar por cerrar sesión en el mini estudio del programa. Si sale del Mini Program Studio después del cierre de sesión, la próxima vez que vuelva a abrir el Mini Program Studio, se requiere inicio de sesión.
