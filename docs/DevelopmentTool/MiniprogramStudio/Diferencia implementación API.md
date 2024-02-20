@@ -15,39 +15,22 @@ Debido a la diferencia del entorno de ejecución, las implementaciones de las si
       <th>Description</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
-      <td>
-        my.makePhoneCall
-      </td>
-      <td>
-        Llamada simulada emergente.
-      </td>
+      <td> my.makePhoneCall</td>
+      <td>Llamada simulada emergente.</td>
     </tr>
     <tr>
-      <td>
-        my.navigateBackMiniProgram
-      </td>
-      <td>
-        Llamada simulada emergente.
-      </td>
+      <td>my.navigateBackMiniProgram</td>
+      <td> Llamada simulada emergente.</td>
     </tr>
     <tr>
-      <td>
-        my.navigateToMiniProgram
-      </td>
-      <td>
-        Llamada simulada emergente.
-      </td>
+      <td>my.navigateToMiniProgram </td>
+      <td>Llamada simulada emergente.</td>
     </tr>
     <tr>
-      <td>
-        my.tradePay
-      </td>
-      <td>
-        Programado
-      </td>
+      <td>my.tradePay</td>
+      <td>Programado</td>
     </tr>
   </tbody>
 </table>
