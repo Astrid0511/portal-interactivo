@@ -4,7 +4,7 @@ sidebar_position: 6
 Hasta ahora, el mini program que se está desarrollando se puede ejecutar dentro del simulador IDE. Solo después de la publicación, el mini program estará disponible en la aplicación móvil en AppContainer-integrated.
 
 
-## Create Mini Program
+## Crear mini programa
 Antes del lanzamiento, el Mini program debe crearse en la plataforma de desarrollo de Mini Program. Si es un administrador de mini program, puede crear un nuevo mini program en la plataforma. Si es un desarrollador normal, debe pedirle al administrador del Mini Program que lo agregue al grupo del recién creado Mini Program.
 
 Mini Program Admin puede crear un nuevo Mini Program en la plataforma de desarrollo de Mini Program.
