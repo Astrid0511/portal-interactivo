@@ -482,8 +482,8 @@ El método createDialog tiene el siguiente parámetro de entrada cuyo valor pasa
             Interface to global information about an application environment.
         </td>
         <td>
-            M
         </td>
+            M
     </tr>
 </table>
 
