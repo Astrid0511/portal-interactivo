@@ -129,6 +129,13 @@ Por ejemplo
     </thead>
 </table>
 
+## Identificación del cliente (Client-Id)
+
+Cliente-ID se usa para identificar a un cliente y se asocia con las claves que se utilizan para la firma.
+
+También en Mini Program OAuth Scenario, aquí el ID Client también es la identificación del cliente de OAuth, que se llena en la plataforma SaaS de Mini Program de la siguiente manera:
+
+![Client-Id](../OpenAPIs/img/Clientd-id.png)
 
 ## Cuerpo de solicitud (Request body)
 
@@ -146,3 +153,4 @@ Las siguientes figuras ilustran la estructura de respuesta:
 El encabezado de respuesta lleva la información sobre la respuesta, que contiene principalmente los siguientes campos.
 
 Nota: Los nombres de campo son insensibles al caso.
+
